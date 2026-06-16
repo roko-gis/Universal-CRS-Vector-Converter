@@ -4,3 +4,4 @@ Universal CRS Vector Converter is an advanced QGIS tool for efficient vector lay
 
 Iliev, R. (2026). *Universal CRS Vector Converter* (Version 1.0.0) [Computer software]. Zenodo.
 https://doi.org/10.5281/zenodo.20711849
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20711849.svg)](https://doi.org/10.5281/zenodo.20711849)
